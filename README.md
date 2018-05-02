@@ -1,2 +1,4 @@
 # fbrute
-HAck fb akun
+Tutor
+
+Usage:php fb.php
