@@ -46,13 +46,13 @@ $brown="\e[0;33m";
 $yellow="\e[1;33m";
 $gray="\e[0;30m";
 $light_gray="\e[0;37m";
-$banner = $gray." _____ ____    ____  _____
+$banner = $white." _____ ____    ____  _____
 |  ___| __ )  | __ )|  ___|
 | |_  |  _ \  |  _ \| |_".$nc."
 |  _| | |_) | | |_) |  _|
 |_|   |____/  |____/|_|
 ".$blue."Facebook Bruteforce
-".$cyan."Author: Mr.ID(st3ring)\n\n".$nc;
+".$cyan."Author: Mr.ID\n\n".$nc;
 $file = $_SERVER[argv][0];
 $user = $_SERVER[argv][1];
 $wordlist = $_SERVER[argv][2];
